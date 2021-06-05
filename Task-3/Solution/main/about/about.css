@@ -50,12 +50,13 @@ nav .brand {
 nav .nav-items {
   display: flex;
   font-size: 1rem;
+  margin-right: 2rem;
 }
 
 nav .nav-item {
   display: flex;
   flex-direction: column;
-  margin-left: 2rem;
+  margin-left: 3rem;
   margin-bottom: 0;
   cursor: pointer;
 }
